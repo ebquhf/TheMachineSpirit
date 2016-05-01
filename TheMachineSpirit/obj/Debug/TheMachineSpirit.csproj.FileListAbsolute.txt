@@ -1,0 +1,7 @@
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\bin\Debug\TheMachineSpirit.dll
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\bin\Debug\TheMachineSpirit.pdb
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\bin\Debug\SpaceBattleCommon.dll
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\bin\Debug\SpaceBattleCommon.pdb
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\obj\Debug\TheMachineSpirit.csprojResolveAssemblyReference.cache
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\obj\Debug\TheMachineSpirit.dll
+D:\cucc\prog2\verseny\SpaceBattle_Public\GeekDay_SpaceBattle_Public\TheMachineSpirit\obj\Debug\TheMachineSpirit.pdb
